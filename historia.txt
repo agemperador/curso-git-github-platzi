@@ -1,3 +1,6 @@
 Curso de git y github
 
 agrego cosas para commitear
+
+
+Le hice un reset antes de esto
