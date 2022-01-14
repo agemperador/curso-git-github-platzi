@@ -1,5 +1,5 @@
 body {
-    color: darkslategray;
+    color: #333;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -17,6 +17,20 @@ body {
 
 #cabecera {
     text-align: left;
+    background-color: darkslateblue;
+    box-shadow: 0 2px 30px 0 rgba(0, 0, 0, 0.4);
+    color: white;
+    padding: 1em;
+    font-size: 2rem;
+}
+
+#cabecera h1 {
+    font-weight: bold;
+}
+
+#cabecera span {
+    margin-left: 2em;
+    font-size: 1.5rem;
 }
 
 .post {
