@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Arial';
+    font-size: 1.6em;
 }
 
 #container {
@@ -14,8 +15,11 @@ body {
     border: 1px solid #DDD;
 }
 
+#cabecera {
+    text-align: left;
+}
+
 .post {
-    box-shadow: 0 0 4px 1px #333;
     padding: 1em;
     border-radius: 10px;
 }
