@@ -11,6 +11,7 @@
 * Buenas prácticas
 * Markdown
 * Trucos muy locos
+* Creado por Platzi
 
 Este  **README es un chiste** , es solo un ejemplo de algunas cosas que se pueden hacer con Markdown. Esta todo en el curso de [Git y Github de Platzi](http://platzi.com/cursos/git-github)
 
